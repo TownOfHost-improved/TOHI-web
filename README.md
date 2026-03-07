@@ -1,2 +1,2 @@
 # TOHI-web
-The website of TOHI(TownOfHost-Improved).
+The website of TOHI(TownOfHost-Improved)
